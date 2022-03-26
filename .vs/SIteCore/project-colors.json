@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd11f9b3-bdf5-4666-b8bd-f9dfd0bca5d9": {
+      "ProjectGuid": "cd11f9b3-bdf5-4666-b8bd-f9dfd0bca5d9",
+      "DisplayName": "SIteCore",
+      "ColorIndex": 0
+    },
+    "6fd2d2fa-0dd7-4083-a6cc-b0cbd2c2b5e6": {
+      "ProjectGuid": "6fd2d2fa-0dd7-4083-a6cc-b0cbd2c2b5e6",
+      "DisplayName": "TechnicalExcercise",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
