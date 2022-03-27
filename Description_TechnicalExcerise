@@ -1,7 +1,7 @@
 Hi
 I created NUnit Framework Application instead of Console Application. So, It could not work with F5 . Please run the application on TestUnit1 with Right click.
 Please Once go through Application, I build the code with desired output.
-I did Technical Excerise within Conditions
+I did Technical Exercise within Conditions
 I Used C# to get Desired OutCome.
 And also used Selenium WebDriver(the driver execute .exe automatically, no need to give the path )// we can give chrome or edge browser in app settings.
 Test completed within 30 sec 
